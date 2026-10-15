@@ -1,4 +1,4 @@
-# School Management System (SMS) - Kotlin Jetpack Compose & Node.js
+# college Management System (SMS) - Kotlin Jetpack Compose & Node.js
 
 This project is a 1:1 mobile transformation of the web-based School Management System (`Practicum`), re-architected with:
 - **Frontend**: Native Android with **Kotlin**, **Jetpack Compose**, **Material Design 3**, **Retrofit 2**, **Coroutines & StateFlow**.
