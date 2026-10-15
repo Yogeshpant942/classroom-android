@@ -94,6 +94,10 @@ d:\new_project\install_apk.bat
 | **Homework / Assignments**| Upload / list | Assignment creation with due dates, submission viewer |
 | **Notices & Bulletins**| Notice board | Announcement board with timestamp cards |
 | **Grievance / Complains**| Complain register | Multi-party complaint filing & admin resolution tracker |
+| **RAG Campus Study Tutor**| *New AI Feature* | RAG-powered student tutor retrieving grounded answers from class notes with citations |
+| **RAG Smart Quiz Generator**| *New AI Feature* | Grounded MCQ generation from course notes with citation verification & 1-click publishing |
+| **Policy & Notice Helpdesk**| *New AI Feature* | Multi-role RAG bot answering questions over school circulars and standing rules |
+| **AI Rubric Grading**| *New AI Feature* | Automated rubric assignment evaluation, criterion score breakdown & student pre-check |
 
 ---
 
