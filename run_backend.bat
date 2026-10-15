@@ -1,0 +1,9 @@
+@echo off
+echo Starting School Management System Backend...
+cd backend
+if not exist node_modules (
+    echo Installing backend dependencies...
+    npm install
+)
+echo Starting Node.js server on port 5000...
+npm start
